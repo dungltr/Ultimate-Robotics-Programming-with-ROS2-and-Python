@@ -6,4 +6,4 @@
     framerate: 30.0
     pixel_format: 'yuyv'  # Example, use your camera's format
     io_method: 'mmap'  # Options: mmap, userptr, read, dma
-    video_device: '/dev/video2'  # The camera device path
+    video_device: '/dev/video0'  # The camera device path
